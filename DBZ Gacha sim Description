@@ -1,0 +1,6 @@
+This is a simple, command-line based gacha game simulator set in the universe of Dragon Ball Z. Designed for quick and randomized pulls, it lets players experience the thrill of "rolling" 
+for iconic DBZ characters across different rarity tiers. The simulator is built around a tiered rarity system that categorizes iconic Dragon Ball Z characters into 
+four distinct levels: Common, Rare, Super, and Ultra. Each tier has a predetermined probability of being pulled, creating a clear hierarchy of desirability. The Common Pool, with a 50% chance,
+the Rare Pool has a 30% chance, the Super Pool, with a 16% chance, and lastly the Ultra Pool, with a mere 4% chance. Players are provided with multiple interactive pull options to engage with the gacha system. 
+The "(S)ingle Pull" option allows for a single, individual gacha roll. For those seeking a larger haul, the "(T)en Pull" executes ten consecutive single pulls, presenting a batch of results. 
+Additionally, the simulator includes a "(P)ity Pull" feature, which significantly boosts the odds for rarer characters.
