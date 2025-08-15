@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio of projects. 
+# DBZ Gacha
+
